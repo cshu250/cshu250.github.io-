@@ -1,5 +1,4 @@
-theme: jekyll-theme-cayman
-title: Welcome to cshu250's page
+
 
 
 # This is my new theme 
@@ -8,6 +7,20 @@ This is a nice new look to this site
 
 ## I am excited to get this going.
 Since this is my first time
+
+### This is last of my header for this repository
+* Test 1
+* Test 2
+  * tester 2a
+  * tester 2b
+*This should come out in italics for me*
+
+https://www.bing.com/ - should work!
+[GitHub](https://www.bing.com/)
+
+As Abraham Lincoln said:
+> Don't trust what you read on the internet
+
 
 
 
